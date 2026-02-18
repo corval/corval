@@ -1,48 +1,67 @@
 # José Luis Cornejo Valencia | CiberIntelligence Analist | Research Scientist | Fullstack Developer Senior
-> **"Bridging the gap between complex physics and mission-critical software."** > 20+ años de trayectoria. Miembro de la **IEEE**. Investigador Independiente en Fotónica y Ciberinteligencia. Forjado en la **Armada**.
+
+> **"Engineering resilience through the lens of Quantum Physics and Naval Discipline."** > 20+ years of Mission-Critical Software Engineering. **IEEE Member**. Independent Researcher in Photonic Spin & Cyber-Intelligence.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IEEE-Member-blue?style=for-the-badge&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/NASA-Open_Science-orange?style=for-the-badge&logo=nasa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Cloud_Innovator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
 
 ---
 
-## 🔬 Investigación y Ciencia Aplicada (Rigor IEEE)
-Mi enfoque no se limita a escribir código; utilizo el método científico para resolver desafíos tecnológicos complejos:
+## 🔬 Scientific Research & STEM Innovation
+My work bridges the gap between theoretical physics and practical intelligence:
 
-* **Fotonica & Cuaterniones:** Desarrollador del formalismo operacional para la propagación del espín fotónico en medios anisotrópicos. Aplicación de álgebra SU(2) para optimizar la comunicación óptica.
-* **WiFi Bullying (AI for Social Good):** Investigación pionera en la detección de anomalías en irradiación WiFi mediante Machine Learning para prevenir acoso escolar en tiempo real.
-* **Investigador IEEE:** Miembro activo, comprometido con la diseminación tecnológica y el avance de STEM.
-
----
-
-## 💼 Trayectoria Profesional (Dónde he impactado)
-He liderado la transformación digital en sectores estratégicos, gestionando desde la infraestructura hasta la experiencia de usuario final:
-
-* **Liderazgo Técnico (Freelance/Consultoría):** Administración avanzada de **Google Cloud Platform (GCP)** y arquitectura de sistemas para **Telecomunicaciones, Industrial, Servcicios y Retail**.
-* **Desarrollo de Ecosistemas:** Creación y despliegue de más de **20 aplicaciones móviles** y **5 plataformas ERP/CRM** de escala internacional.
-* **Disciplina Operativa:** 18+ años aplicando logística naval y resiliencia de sistemas en entornos donde el fallo tiene consecuencias reales.
+* **[Quantum Photonics] Formalismo Cuaterniónico Operacional:** Research on photonic spin propagation in anisotropic media using $SU(2)$ symmetry and unit quaternions for optical optimization.
+* **[AI for Social Good] WiFi Bullying Detection:** Pioneer research using Machine Learning (Knime/Python) to detect anomalies in WiFi irradiation as a real-time proxy for school bullying identification.
+* **[Cyber-Intelligence] MSc Candidate @ Universidad de Alcalá:** Specializing in proactive threat hunting and defensive AI architectures.
 
 ---
 
-## 🛠️ Resolución de Problemas: El Enfoque Polímata
-¿Cómo convierto la teoría en rentabilidad?
+## 💼 Professional Trajectory (Mission-Critical Impact)
+I don't just "code"; I lead systems that cannot afford to fail.
 
-* **Caso 1: Resiliencia de Datos:** Ante fallos de conectividad, implemento arquitecturas **PWA (Service Workers + IndexedDB)** que garantizan la operatividad offline al 100%.
-* **Caso 2: Inteligencia Predictiva:** Uso de modelos RAG y Copilotos personalizados en **Azure AI Studio** para automatizar el análisis de riesgos que antes tomaba semanas.
-* **Caso 3: Seguridad Zero-Trust:** Integración de protocolos de Ciberinteligencia (UAH) para blindar infraestructuras críticas contra amenazas persistentes.
-
----
-
-## 🎯 Lo que ofrezco hoy (Mi Valor V-Shaped)
-Mi experiencia polímata me permite ofrecer una visión de 360° que un especialista puro no posee:
-
-1.  **Visión Estratégica:** Entiendo los modelos de negocio y la propiedad intelectual (Business Acumen).
-2.  **Maestría Técnica:** Seniority real en **Python, C#, Java, Go** y **Flutter**.
-3.  **Seguridad & IA:** Capacidad para liderar la transición hacia la IA generativa de forma ética y segura.
+* **Cloud & IT Strategic Consultant:** (Telecom Industry & International Clients) Managing complex **GCP & Azure** infrastructures with a **Zero-Trust** approach.
+* **Full-Stack Mastery:** +20 years developing massive ERP/CRM platforms and +20 mobile apps (Flutter, Native Android/iOS).
+* **Naval Discipline:** 18+ years in the **Mexican Navy**, forging a mindset of absolute reliability, strategy, and resilience under pressure.
 
 ---
 
-## 🌌 Credenciales & Evidencia
-* **Academia:** Posgrado en Ciberinteligencia (U. de Alcalá), Ciencia de Datos (IE University).
-* **Global Badges:** NASA Open Science, Microsoft Azure IA, Google Cloud Innovator.
-* **Publicaciones:** [Formalismo Cuaterniónico para Fotónica], [Detección de WiFi Bullying].
+## 🛠️ The Polymath's Toolbox
+| Domain | Technologies |
+| :--- | :--- |
+| **Artificial Intelligence** | Azure AI Studio, Vertex AI, RAG Architectures, MLFlow, Scikit-learn. |
+| **Core Development** | Python, C#, Java (Spring), Go, Kotlin, PHP, Dart (Flutter). |
+| **Scientific Computing** | LaTeX, Matlab/Octave, Formalism Modeling, Data Visualization. |
+| **Resilient Web** | **PWA Expert** (Service Workers, IndexedDB, Manifest.json). |
 
 ---
-📫 **¿Interesado en ciencia aplicada y software indestructible?** [LinkedIn](https://linkedin.com/in/jlcornejo88) |
+
+## 🏗️ How I Solve Problems (Case Studies)
+* **Resilience:** I resolve connectivity gaps in remote industrial areas by deploying **Offline-First PWAs** that sync data with sub-second latency once reconnected.
+* **Intelligence:** I build **Custom Copilots** that turn unstructured corporate data into executive insights using Azure OpenAI and Vector Databases.
+* **Security:** I audit architectures from a **Cyber-Intelligence** perspective, mitigating vulnerabilities before they are even documented.
+
+---
+
+## 🏆 Certifications & Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/IE_University-Data_Science-white?style=flat-square&logo=ie-university" />
+  <img src="https://img.shields.io/badge/Santander-Open_Academy-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/DisasterReady-Logistics-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/LinkedIn-Content_Strategy-0A66C2?style=flat-square&logo=linkedin" />
+</p>
+
+* **Credly Portfolio:** [22+ Verified Skills in AI & Cloud](https://www.credly.com/users/jlcornejo)
+* **Google Devs:** [43 Badges in SDK & Cloud Innovation](https://g.dev/jlcornejo)
+
+---
+
+## 📝 Latest Publications
+* *Formalismo cuaterniónico operacional para la propagación del espín fotónico.* (Jan 2026).
+* *Detección de Bullying mediante Anomalías en Irradiación WiFi.* (Aug 2024).
+
+---
+📫 **Looking for a tactical engineer who understands physics and respects the mission?** [LinkedIn](https://linkedin.com/in/jlcornejo88) | 2026
