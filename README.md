@@ -15,7 +15,7 @@ Mi enfoque no se limita a escribir código; utilizo el método científico para 
 ## 💼 Trayectoria Profesional (Dónde he impactado)
 He liderado la transformación digital en sectores estratégicos, gestionando desde la infraestructura hasta la experiencia de usuario final:
 
-* **Liderazgo Técnico (Freelance/Consultoría):** Administración avanzada de **Google Cloud Platform (GCP)** y arquitectura de sistemas para **COBA Industrial**.
+* **Liderazgo Técnico (Freelance/Consultoría):** Administración avanzada de **Google Cloud Platform (GCP)** y arquitectura de sistemas para **Telecomunicaciones, Industrial, Servcicios y Retail**.
 * **Desarrollo de Ecosistemas:** Creación y despliegue de más de **20 aplicaciones móviles** y **5 plataformas ERP/CRM** de escala internacional.
 * **Disciplina Operativa:** 18+ años aplicando logística naval y resiliencia de sistemas en entornos donde el fallo tiene consecuencias reales.
 
@@ -45,4 +45,4 @@ Mi experiencia polímata me permite ofrecer una visión de 360° que un especial
 * **Publicaciones:** [Formalismo Cuaterniónico para Fotónica], [Detección de WiFi Bullying].
 
 ---
-📫 **¿Interesado en ciencia aplicada y software indestructible?** [LinkedIn](https://linkedin.com/in/jlcornejo88) | **Arre mi compa, más agusto.**
+📫 **¿Interesado en ciencia aplicada y software indestructible?** [LinkedIn](https://linkedin.com/in/jlcornejo88) |
